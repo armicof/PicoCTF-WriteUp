@@ -7,9 +7,8 @@
 *Find the PDF file here Hidden Confidential Document and uncover the flag within the metadata.*
 
 ## File:
-    * Confidential.pdf
+* Confidential.pdf
 
----
 
 ## Investigation:
 This is just a simple stegano challenge where the author hide the flag within the metadata, as it said in the description. So, all we need to do is check the metadata using *exiftool*.
